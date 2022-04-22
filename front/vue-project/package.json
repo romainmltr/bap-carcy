@@ -7,10 +7,12 @@
     "preview": "vite preview --port 5050"
   },
   "dependencies": {
+    "axios": "^0.26.1",
     "bootstrap": "^5.1.3",
     "router": "^1.3.6",
     "sass": "^1.50.1",
-    "vue": "^3.2.33"
+    "vue": "^3.2.33",
+    "vue-sidebar-menu-akahon": "^0.1.4"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^2.3.1",
